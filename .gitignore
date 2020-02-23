@@ -1,0 +1,12 @@
+#All Log Files created at runtime
+*.log
+
+#All Files belonging to the virtual Environment
+/venv
+
+#All Files in subfolders .idea over the project
+**/.idea
+
+#All compiled *.pyc files
+*.pyc
+
